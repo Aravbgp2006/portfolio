@@ -9,6 +9,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Education from "./components/Education";
 import Experience from "./components/Experience";
+import Github from "./components/Github";
 function App() {
   return (
     <>
@@ -21,6 +22,7 @@ function App() {
       <Skills />
       <Projects />
       <Certificates />
+      <Github />
       <Contact />
       <Footer />
     </>

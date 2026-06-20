@@ -19,7 +19,7 @@ export default function Experience() {
         }}
       >
         <h3>Frontend Developer (Personal Projects)</h3>
-        <p style={{ color: "#38bdf8" }}>2025 - Present</p>
+        <p style={{ color: "#38bdf8" }}>2026 - Present</p>
         <p>
           Built Amazon Clone, Student Mitra App, Weather Dashboard,
           Calculator and Todo App using React, JavaScript and Firebase.

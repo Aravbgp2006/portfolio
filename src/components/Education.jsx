@@ -27,7 +27,7 @@ export default function Education() {
         <h3>B.Tech - Computer Science & Engineering</h3>
 
         <p style={{ color: "#38bdf8" }}>
-          Arya College of Engineering & IT
+          Arya College of Engineering & technology,jaipur
         </p>
 
         <p style={{ color: "#94a3b8" }}>
