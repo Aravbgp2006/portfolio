@@ -7,13 +7,14 @@ import Projects from "./components/Projects";
 import Certificates from "./components/Certificates";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-
+import Education from "./components/Education";
 function App() {
   return (
     <>
       <Navbar />
       <Hero />
       <Stats />
+      <Education />
       <About />
       <Skills />
       <Projects />
@@ -25,3 +26,6 @@ function App() {
 }
 
 export default App;
+
+
+
