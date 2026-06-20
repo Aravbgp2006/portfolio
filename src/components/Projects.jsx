@@ -1,5 +1,5 @@
 import amazon from "../assets/amazon.png";
-import student mitra from "../assets/student mitra.jpeg";
+import studentmitra from "../assets/studentmitra.jpeg";
 import weather from "../assets/weather.jpeg";
 import calculator from "../assets/calculator.jpeg";
 import todo from "../assets/todo.jpeg";
