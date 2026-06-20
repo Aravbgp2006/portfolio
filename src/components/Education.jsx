@@ -1,0 +1,3 @@
+<Stats />
+<Education />
+<About />
