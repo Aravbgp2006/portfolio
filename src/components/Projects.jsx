@@ -1,8 +1,8 @@
 import amazon from "../assets/amazon.png";
-import studentmitra from "../assets/studentmitra.png";
-import weather from "../assets/weather.png";
-import calculator from "../assets/calculator.png";
-import todo from "../assets/todo.png";
+import student mitra from "../assets/student mitra.jpeg";
+import weather from "../assets/weather.jpeg";
+import calculator from "../assets/calculator.jpeg";
+import todo from "../assets/todo.jpeg";
 
 export default function Projects() {
   const projects = [
