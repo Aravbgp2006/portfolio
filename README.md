@@ -2,7 +2,7 @@
 
 # 💼 Arav Raj Portfolio
 
-### 🚀 Frontend Developer • CSE Student • Passionate About Building Modern Web Experiences
+### 🚀 full stack Developer • CSE Student • Passionate About Building Modern Web Experiences
 
 <p align="center">
   <a href="https://github.com/Aravbgp2006">
@@ -145,13 +145,10 @@ Open index.html
 
 https://github.com/Aravbgp2006
 
-### LinkedIn
 
-https://linkedin.com/in/YOUR-LINKEDIN
 
 ### Email
-
-yourmail@example.com
+arav111bgp11@gmail.com
 
 ---
 
